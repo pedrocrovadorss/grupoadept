@@ -563,7 +563,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 // Efeito de digitação
 const typingEl = document.getElementById('typing');
-const phrases = ['Resultados', 'Presença digital', 'inovação', 'Estratégias de marketing', 'Análise de dados', 'Fidelização de clientes'];
+const phrases = ['Elevar seus Resultados', 'Aprimorar Sua presença digital', 'Inovação', 'Estratégias de marketing'];
 let phraseIndex = 0;
 let letterIndex = 0;
 let currentPhrase = '';
